@@ -1,0 +1,4 @@
+C:\Users\SENAC\Documents\GitHub\csharp\condicionais\obj\Debug\net7.0\condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAC\Documents\GitHub\csharp\condicionais\obj\Debug\net7.0\condicionais.AssemblyInfoInputs.cache
+C:\Users\SENAC\Documents\GitHub\csharp\condicionais\obj\Debug\net7.0\condicionais.AssemblyInfo.cs
+C:\Users\SENAC\Documents\GitHub\csharp\condicionais\obj\Debug\net7.0\condicionais.csproj.CoreCompileInputs.cache
