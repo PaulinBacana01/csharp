@@ -26,10 +26,26 @@
    // Console.WriteLine($"Valor de: i: {i}");
 //}
 
-string[] nomes = {"Paulo", "Joao", "Lidia"};
-foreach (string nome in nomes)
-{
-    Console.WriteLine(nome);
-}
+//string[] nomes = {"Paulo", "Joao", "Lidia"};
+//foreach (string nome in nomes)
+//{
+    //Console.WriteLine(nome);
+//}
+
+//Atv 1 ↓↓↓↓↓↓↓↓↓↓↓↓↓
+
+//{
+       //int mmm = 0;
+        //for (int sus = 2; sus <= 100; sus += 2)
+       // {
+         //   mmm += sus;
+        //} 
+      //  Console.WriteLine("A soma dos números pares de 1 a 100 é: " + mmm);
+ //}
+
+ 
+
+
+
 
 
