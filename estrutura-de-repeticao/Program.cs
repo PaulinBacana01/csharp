@@ -43,9 +43,12 @@
       //  Console.WriteLine("A soma dos números pares de 1 a 100 é: " + mmm);
  //}
 
- 
+Console.WriteLine ("Digite uma palavra:");
+string entrada = Console.ReadLine().ToLower().Replace(" ", "");
+string reverso = new string (entrada.Reverse().ToArray());
 
+if (entrada == reverso)
+{
+  Console.WriteLine("E um palindromo!");
 
-
-
-
+}
