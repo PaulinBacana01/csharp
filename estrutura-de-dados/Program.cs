@@ -1,4 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-// Verificar se um nome esta na lista 
-Console.WriteLine 
+﻿HashSet<string> fruta = new HashSet<string>{"Banana", "ClebinhoHack", "Limao"};
+fruta.Add("Banana");
+fruta.Add("Limao");
+
+Console.WriteLine("Frutas do Conjunto:");
+foreach (string frutas in fruta)
+{
+    Console.WriteLine(frutas);
+}
